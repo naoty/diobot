@@ -1,0 +1,19 @@
+{
+  "name": "diobot",
+  "version": "0.0.1",
+  "author": "naoty",
+  "description": "DIO sama at irc",
+  "license": "MIT",
+
+  "dependencies": {
+    "hubot": "*",
+    "hubot-scripts": "*",
+    "optparse": "*",
+    "hubot-irc": "*"
+  },
+
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }
+}
