@@ -10,7 +10,8 @@
     "hubot-scripts": "*",
     "optparse": "*",
     "hubot-irc": "*",
-    "coffee-script": "*"
+    "coffee-script": "*",
+    "underscore": "*"
   },
 
   "engines": {
